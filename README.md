@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/owais-shk/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Owais-Ml-Dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_View-purple?style=flat&logo=safari)](https://iwhhgfmernq6g.ok.kimi.link/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:owais.shaikh.ml.engineer@gmail.com)
 
 ## 👨‍💻 About Me
@@ -65,6 +66,7 @@ I am a **First Principles AI Engineer** specializing in the manual architecture 
 
 I am always open to discussing deep learning architectures, research collaboration, or engineering roles.
 
+* **Website / Live Portfolio**: [View Here](https://iwhhgfmernq6g.ok.kimi.link/)
 * **Location**: Mumbai, Maharashtra, India
 * **Availability**: Immediate joiner for AI/ML roles.
 
